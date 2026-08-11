@@ -1,3 +1,12 @@
+.logo {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.33;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
 .main-nav-link:hover,
 .main-nav-link:active,
 .main-nav-link:focus {
@@ -5,12 +14,8 @@
 }
 
 .address-link {
-  font-family: 'Raleway', sans-serif;
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 1.33;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
+  font-weight: 400;
+  color: #434455;
 }
 .address-link:hover,
 .address-link:focus {
