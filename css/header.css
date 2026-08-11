@@ -1,0 +1,12 @@
+.main-nav-link:hover,
+.main-nav-link:active {
+  color: #404bbf;
+}
+
+.address-link {
+  font-weight: 400;
+  color: #434455;
+}
+.address-link:hover {
+  color: #404bbf;
+}

@@ -1,0 +1,28 @@
+.teammates {
+  background-color: #f4f4fd;
+}
+.teammates-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+}
+
+.teammates-items {
+  box-shadow:
+    0 2px 1px 0 rgba(46, 47, 66, 0.08),
+    0 1px 1px 0 rgba(46, 47, 66, 0.16),
+    0 1px 6px 0 rgba(46, 47, 66, 0.08);
+  background-color: #fff;
+}
+
+.teammates-names {
+  font-size: 20px;
+  line-height: 1.2;
+  text-align: center;
+}
+.teammates-position {
+  font-weight: 400;
+  text-align: center;
+  color: #434455;
+}
