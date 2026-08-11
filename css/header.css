@@ -1,5 +1,6 @@
 .main-nav-link:hover,
-.main-nav-link:active {
+.main-nav-link:active,
+.main-nav-link:focus {
   color: #404bbf;
 }
 
@@ -7,6 +8,7 @@
   font-weight: 400;
   color: #434455;
 }
-.address-link:hover {
+.address-link:hover,
+.address-link:focus {
   color: #404bbf;
 }
